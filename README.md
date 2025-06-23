@@ -17,18 +17,17 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<img src="" width="100" height="100" alt="Flutter" />
+<br><strong></strong>
 </td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm 41nagai!**
-🚀 **Flutter Developer** passionate about mobile development  
-
+🚀 **Flutter Developer**
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:
-☕ **Powered by:
-🎯 **Goal:
+💼 **Focus:**
+☕ **Powered by:**
+🎯 **Goal:**
 
 </td>
 </tr>
