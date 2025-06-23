@@ -17,7 +17,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="" width="100" height="100" alt="Flutter" />
+<img src="" width="100" height="100" alt="None" />
 <br><strong></strong>
 </td>
 <td width="400" align="left">
@@ -38,11 +38,9 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div><div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
 ## 🛠️ **Tech Stack**
@@ -52,25 +50,25 @@
 <td width="50%" align="center" valign="top">
 
 ### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+<img src="https://skillicons.dev/icons?i= " />
 
 ### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i= " />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i= " />
 
 ### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+<img src="https://skillicons.dev/icons?i= " />
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 
 </td>
 </tr>
